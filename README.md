@@ -1,6 +1,6 @@
 # lab-organization
 ## Naming samples and experiments
-It is common to generate multiple datasets for the same sample. This rules should be following in naming the sample and experiment.
+It is common to generate multiple datasets for the same sample. These rules should be following in naming the sample and experiment.
 ```
 1. Sample names should be the most common used name. 
 2. Experiment names should be unique. They should contain the sample name and short description.
