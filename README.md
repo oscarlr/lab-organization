@@ -9,5 +9,5 @@ It is common to generate multiple datasets for the same sample. These rules shou
 The end result should be a table with all three entries. For example:
 ```
 sample  experiment  datapath
-NA19240 NA19240_redo_1  /data/NA19240.fastq
+NA19240 NA19240-1KGP_redo_1  /data/NA19240.fastq
 ```
